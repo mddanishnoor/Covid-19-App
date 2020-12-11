@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680362559612",
+    "firebase_url": "https://covid-395f4.firebaseio.com",
+    "project_id": "covid-395f4",
+    "storage_bucket": "covid-395f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680362559612:android:83dafd3009020f0e3d61f9",
+        "android_client_info": {
+          "package_name": "com.pixelsperdream.covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680362559612-rro395l0gl8d8odv941q4gacpj7t616e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCan4VLabjhO4WzmbSWW6mSb8Be3-ojfgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680362559612-rro395l0gl8d8odv941q4gacpj7t616e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
